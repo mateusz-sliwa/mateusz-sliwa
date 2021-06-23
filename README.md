@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mateusz
-- 🌱 I’m currently learning C# WCF Services and Python Deep Learning
+- 🌱 I’m currently learning ReactJS
 - 📫 You can reach me at my LinkedIn profile: https://www.linkedin.com/in/mateusz-sliwa/
 
 <!---
