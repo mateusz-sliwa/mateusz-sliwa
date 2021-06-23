@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mateusz
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React.js
 - 📫 You can reach me at my LinkedIn profile: https://www.linkedin.com/in/mateusz-sliwa/
 
 <!---
