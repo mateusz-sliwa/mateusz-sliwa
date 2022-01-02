@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Mateusz
-- 🌱 I’m currently learning Django
+- 🌱 I’m a junior developer improving my skills in Pyton
 - 📫 You can reach me at my LinkedIn profile: https://www.linkedin.com/in/mateusz-sliwa/
 
 <!---
