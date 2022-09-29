@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Mateusz
-- 🌱 I’m a junior developer improving my skills in Python
+- 🌱 I push git commits before going to grab a snack.
 - 📫 You can reach me at my LinkedIn profile: https://www.linkedin.com/in/mateusz-sliwa/
 
 <!---
