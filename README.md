@@ -13,6 +13,7 @@
        "deployment": ["Docker", "nginx", "gitlab ci/cd"],
        "version_control": "git",
        "other": ["Microsoft Adaptive Cards", "Microsoft Bot Framework", "Azure", "Chatbot Design", "UI Design"],
+       "data_vis": "Grafana",
        "languages": 
        {
           "Polish": "native",
