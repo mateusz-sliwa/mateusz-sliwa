@@ -28,7 +28,7 @@
 
 - 📫 Reach me at: **mateusz-sliwa@outlook.com**
 
-- ⚡ Fun fact: **I also know how to make games using either UE or Unity.**
+- ⚡ Fun fact: **I also know how to make games using either UE & Unity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
