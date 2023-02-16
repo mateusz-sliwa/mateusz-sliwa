@@ -8,7 +8,7 @@
   "current_role" : "Tools developer",
   "assets" : 
    {
-       "coding": ["Python", "Groovy"],
+       "code": ["Python", "Groovy"],
        "datasource_lang": ["SQL", "GraphQL"],
        "deployment": ["Docker", "nginx", "gitlab ci/cd"],
        "version_control": "git",
