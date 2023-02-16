@@ -1,6 +1,26 @@
-<h1 align="center">Hi 👋, my name is Mateusz</h1>
-<h3 align="center">I'm currently employed as Tools Developer in an outsourcing company. </h2>
-<h3 align="center">My main field is creating chatbots using Apache Groovy and automations with Python 3.</h3>
+<h1 align="center">Hi 👋</h1>
+<!--<h3 align="center">I'm currently employed as Tools Developer in an outsourcing company. </h2>
+<h3 align="center">My main field is creating chatbots using Apache Groovy and automations with Python 3.</h3> -->
+
+```python
+{
+  "name" : "Mateusz",
+  "current_role" : "Tools developer",
+  "assets" : 
+   {
+       "coding": ["Python", "Groovy"],
+       "datasource_lang": ["SQL", "GraphQL"],
+       "deployment": ["Docker", "nginx", "gitlab ci/cd"],
+       "version_control": "git",
+       "other": ["Microsoft Adaptive Cards", "Microsoft Bot Framework", "Azure", "Chatbot Design", "UI Design"],
+       "languages": 
+       {
+          "Polish": "native",
+          "English": "fluent"
+       }
+   }
+}
+```
 
 - 🔭 I’m currently working on [Web Blog](https://github.com/mateusz-sliwa/WebBlog)
 
