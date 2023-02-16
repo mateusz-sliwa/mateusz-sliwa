@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Mateusz</h1>
-<h2 align="center">I'm currently employed as Tools Developer in an outsourcing company. </h2>
+<h3 align="center">I'm currently employed as Tools Developer in an outsourcing company. </h2>
 <h3 align="center">My main field is creating chatbots using Apache Groovy and automations with Python 3.</h3>
 
 - 🔭 I’m currently working on [Web Blog](https://github.com/mateusz-sliwa/WebBlog)
