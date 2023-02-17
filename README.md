@@ -13,7 +13,7 @@
        "deployment": ["Docker", "nginx", "gitlab ci/cd"],
        "version_control": "git",
        "other": ["Microsoft Adaptive Cards", "Microsoft Bot Framework", "Azure", "Chatbot Design", "UI Design"],
-       "data_vis": "Grafana",
+       "monitoring": "Grafana",
        "languages": 
        {
           "Polish": "native",
@@ -29,7 +29,7 @@
 
 - 📫 Reach me at: **mateusz-sliwa@outlook.com**
 
-- ⚡ Fun fact: **I also know how to make games using either UE & Unity.**
+- ⚡ Fun fact: **I also know how to make games using UE & Unity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
