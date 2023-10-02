@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋</h1>
-<!--<h3 align="center">I'm currently employed as Tools Developer in an outsourcing company. </h2>
-<h3 align="center">My main field is creating chatbots using Apache Groovy and automations with Python 3.</h3> -->
+<!--<h3 align="center">I'm currently employed as Python Developer in an outsourcing company. </h2>
+<h3 align="center">My main field is implementing backend features for Azure cloud.</h3> -->
 
 ```python
 {
   "name" : "Mateusz",
-  "current_role" : "Tools developer",
+  "current_role" : "Python developer",
   "assets" : 
    {
-       "code": ["Python", "Groovy"],
-       "datasource_lang": ["SQL", "GraphQL"],
-       "deployment": ["Docker", "nginx", "gitlab ci/cd"],
+       "code": ["Python"],
+       "cloud": ["Azure"],
        "version_control": "git",
-       "other": ["Microsoft Adaptive Cards", "Microsoft Bot Framework", "Azure", "Chatbot Design", "UI Design"],
-       "monitoring": "Grafana",
        "languages": 
        {
           "Polish": "native",
@@ -23,13 +20,7 @@
 }
 ```
 
-- 🔭 I’m currently working on [Web Blog](https://github.com/mateusz-sliwa/WebBlog)
-
-- 🌱 I’m currently learning **Django, Flask**
-
 - 📫 Reach me at: **mateusz-sliwa@outlook.com**
-
-- ⚡ Fun fact: **I also know how to make games using UE & Unity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
